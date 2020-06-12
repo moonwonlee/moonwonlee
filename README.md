@@ -1,3 +1,2 @@
 # moonwonlee
-Moonwon's personal web site
-moonwon.lee
+I don't know what this is gonna be
