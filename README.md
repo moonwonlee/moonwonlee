@@ -8,7 +8,7 @@
 - Minor in Computer Science
  
 ## 🌱 Interests
-- **Data Workflow / Pipeline Orchestration Platform**
+- **Cloud/ Data Workflow / Pipeline Orchestration Platform**
 - **Simultaneous Localization and Mapping (SLAM)**
   - Visual-inertial odometry
 - **Computer Vision**
